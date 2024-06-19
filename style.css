@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    background: rgb(35, 39, 46);
+}
+
+.hr{
+    color: rgb(208, 109, 109);
+    font-family: Roboto Mono, sans-serif;
+    background-color: rgba(30, 32, 36, 0.773);
+    text-align: center;
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    font-family: Roboto Mono, sans-serif;
+    text-align: left;
+}
+
+.center-text{
+    color: rgb(255, 255, 255);
+    font-family: Roboto Mono, sans-serif;
+}
